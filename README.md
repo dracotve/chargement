@@ -1,0 +1,2 @@
+# chargement
+chargement serveur gmod
